@@ -27,7 +27,7 @@ X = 'x'
 Y = 'y'
 DIR = 'direction'
 
-WORD = chr(9829)+'WACHUŚ'+chr(9829)
+WORD = 'WORD'
 
 def main():
     bext.clear()
